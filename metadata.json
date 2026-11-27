@@ -1,0 +1,6 @@
+{
+  "name": "AI Body Fat Analyzer",
+  "description": "An advanced AI-powered health and fitness app that estimates body fat percentage from photos and measurements, providing personalized AI recommendations, diet plans, workout routines, and detailed visual dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
